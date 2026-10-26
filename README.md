@@ -1,6 +1,6 @@
 # Zync AI
 
-![Zync AI Workspace](screenshot.png)
+![Zync AI Workspace](frontend/public/screenshot.png)
 
 **Zync AI** is a premium, zero-scroll, multi-model AI workspace designed for speed, fluidity, and zero financial overhead. Built with a dynamic fallback routing system, it leverages the free tiers of top-tier AI models to provide uninterrupted text and image generation without incurring API costs.
 
